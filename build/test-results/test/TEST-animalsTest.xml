@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="animalsTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-12-03T06:37:39" hostname="recruit-ThinkCentre-M73" time="0.013">
+  <properties/>
+  <testcase name="TestDogSound()" classname="animalsTest" time="0.013"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
